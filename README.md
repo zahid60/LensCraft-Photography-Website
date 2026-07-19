@@ -18,7 +18,9 @@
 
 ## About
 
-LensCraft is a portfolio site for a Kyoto-based photography studio, covering six specialities — Nature, Portrait, Wedding, Street, Travel, and Wildlife. It was built as a group project with one constraint: everything had to work in pure HTML and CSS, including things that are normally reached for JavaScript, like the image lightbox.
+LensCraft is a portfolio for a Kyoto-based photography studio, built around six specialities — Nature, Portrait, Wedding, Street, Travel, and Wildlife. One deliberate constraint shaped all of it: everything had to work in pure HTML and CSS, including the things people normally reach for JavaScript to build, like the image lightbox.
+ 
+The goal was simple to state and harder to build: a professional, multi-page portfolio a real studio could actually use, with a clear path from browsing the work to booking a session, and full responsiveness across every device. **Eleven pages. Fifty-six-plus photographs. Six categories. Not a single line of JavaScript** — the numbers are proof the constraint held.
 
 ## ✨ Features
 
